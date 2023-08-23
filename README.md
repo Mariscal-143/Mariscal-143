@@ -1,4 +1,13 @@
 ### Hi there 👋
+Sou o Cesar, atualmente curso o Bacharelado em Ciências Atuarias na Universidade de São Paulo (USP). 
+Também estou cursando desenvolvimento Front-End no SENAI-SP através do programa _Ford Enter_. Programador Java e Python.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariscal-143)](https://github.com/anuraghazra/github-readme-stats) 
+<div>
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="80" />
+
+<a href="https://github.com/Mariscal-143?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />meus repositórios</a>
 
 <!--
 **Mariscal-143/Mariscal-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
