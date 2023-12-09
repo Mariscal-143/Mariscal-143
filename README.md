@@ -1,6 +1,5 @@
 ### Hi there 👋
-Sou o Cesar, atualmente curso o Bacharelado em Ciências Atuarias na Universidade de São Paulo (USP). 
-Também estou cursando desenvolvimento Front-End no SENAI-SP através do programa _Ford Enter_.
+I'm Cesar, currently studying a Bachelor's degree in Actuarial Sciences at the University of São Paulo (USP). I'm also studying Front-End development at SENAI-SP through the Ford Enter program. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariscal-143)](https://github.com/anuraghazra/github-readme-stats) 
 <div>
